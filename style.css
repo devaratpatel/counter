@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 300;
+  font-family: sans-serif;
+}
+#value {
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  background-color: white;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
